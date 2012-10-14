@@ -49,6 +49,16 @@ a:hover, a:active {color:#999;text-decoration:underline;}
 #body-down b{line-height:50px; font-size:30px;  overflow: auto;}
 
 #body2{width: 960px; padding: 300px 0 10px 0 ; background-color: #fff; text-align:center; overflow: auto;}
+
+#search {
+	background: #fff ;
+	border: 1px solid #000;
+	width:280px; font-size:14px; line-height:24px; 
+	height:24px;vertical-align: middle;
+	
+}
+#search-button {height:28px; font-size:14px;  line-height:24px; padding:5px;vertical-align: middle;}
+
 #lang {width: 960px; padding: 0 0 50px 0 ; background-color: #fff ; text-align:center; overflow: auto;}
 #down {width: 960px; padding: 50px 0 10px 0; background-color: #fff ; text-align:center; overflow: auto;}
 #down ul {width : 960px; padding: 0 300px; }
